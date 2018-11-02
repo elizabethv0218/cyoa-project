@@ -1,7 +1,8 @@
-## You wake up scared and calm yourself
+# Curiousity 
+You wake up scared and calm yourself  
 *Is your curiousity eating you alive?*
 
 
-Yes  
+[Yes](invevstigate.md)
 
 No 
