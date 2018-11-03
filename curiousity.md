@@ -1,6 +1,6 @@
 # Curiousity 
 You wake up scared and calm yourself  
-*Is your curiousity eating you alive?*
+*Are you trying to go investigate?*
 
 
 [Yes](invevstigate.md)
