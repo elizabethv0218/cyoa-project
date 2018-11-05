@@ -6,3 +6,6 @@ You enter the kitchen already planning to make yourself a Nutella sandwich. As y
 
 ![Kitchen](images/kitchen.jpeg)  
 [Credit to CCO Public Domain](https://pxhere.com/en/photo/183773)
+
+![Shadow](images/shadow.png)  
+_Credit to [April A Taylor](https://www.ranker.com/profile-of/april-a-taylor)_

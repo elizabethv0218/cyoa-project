@@ -4,4 +4,5 @@ You start making yourself comfortable again in your cozy bed to catch more Z's. 
 [Do you respond to your sibling?](what.md)  
 [Or do you pretend you can't hear them for more sleep?](spooky-noises.md)
 
-![Sleeping](zzz.png)
+![Sleeping](images/zzz.png)  
+_Credit to [Jeremy](https://www.atlantaitservices.com/blog-article-1/sleep-icon-1/)_
