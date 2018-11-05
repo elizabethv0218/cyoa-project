@@ -3,3 +3,5 @@ You start making yourself comfortable again in your cozy bed to catch more Z's. 
 
 [Do you respond to your sibling?](what.md)  
 [Or do you pretend you can't hear them for more sleep?](spooky-noises.md)
+
+![Sleeping](zzz.png)
