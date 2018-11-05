@@ -5,4 +5,4 @@ You wake up scared and calm yourself
 
 [Yes](invevstigate.md)
 
-No 
+[No](hiding.md)

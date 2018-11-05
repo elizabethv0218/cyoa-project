@@ -2,5 +2,5 @@
 You cover with the blanket.  
 *Are you tired of hiding*
 
-Yes 
-No
+[Yes, I can't sleep](uncover.md) 
+[No im becoming overwhellmed](faint.md)

@@ -4,4 +4,4 @@ You go look around for the source of the noise.
 
 [Decide to go to the bathroom](bathroom.md) 
 
-Decide to go to the kitchen 
+[Decide to go to the kitchen](kitchen.md) 

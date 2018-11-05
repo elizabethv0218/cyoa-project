@@ -3,3 +3,6 @@ You enter the kitchen already planning to make yourself a Nutella sandwich. As y
 
 [Will you fight?](fight.md)  
 [Or take flight?](flight.md)
+
+![Kitchen](images/kitchen.jpeg)  
+[Credit to CCO Public Domain](https://pxhere.com/en/photo/183773)
