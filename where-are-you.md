@@ -3,3 +3,6 @@ When you enter your brother's room, your eyes land on his empty bed. You lift th
 
 [Should I head to the bathroom and try shouting for him?](bathroom.md)  
 [Or should I just go back to bed? He probably ran to use the bathroom without thinking anyways.](attacked.md)
+
+![Empty Bed](images/empty-bed.jpg)  
+_Credit to [MichaelGaida](https://pixabay.com/en/users/MichaelGaida-652234/)_

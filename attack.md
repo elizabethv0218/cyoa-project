@@ -4,5 +4,8 @@ The police show up in no time and take the criminal away. One of them leads you 
 
 Don't worry, you're **safe and sound** now.
 
+![Ambulence](images/ambulence.jpg)  
+_Credit to [Kevin Grange](https://www.signature-reads.com/author/kevin-grange/)_
+
 **You've reached the GOOD ending!**  
 [START OVER?](home.md)

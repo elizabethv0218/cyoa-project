@@ -4,3 +4,8 @@ Now you're awake and slightly worried.
 
 [Should you check you're brother's room?](where-are-you.md)  
 [**Stomach growls** Now that you think of it, you are a little hungry. Will you stop by the kitchen first to grab a snack?](kitchen.md)
+
+![Footsteps](images/footsteps.jpg)  
+_Credit to [CC0 Public Domain](https://pxhere.com/en/photo/1179638)_  
+![Door Creaks Open](images/door-creak.jpg)  
+_Credit to [Cristian Menghi](https://www.flickr.com/photos/cmenghi/)_

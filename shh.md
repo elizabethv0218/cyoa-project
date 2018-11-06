@@ -3,3 +3,8 @@ You tell your brother to be quiet and to go back to bed. You pray he gets the hi
 And so your night draws to an end...
 
 [...right?](home.md)
+
+![Shhhhhh!](images/shh.jpg)  
+_Credit to [George Hodan](https://www.publicdomainpictures.net/en/view-image.php?image=171383&picture=&jazyk=RO)_
+
+**You've reached the INCEPTION (BAD) ending!**
