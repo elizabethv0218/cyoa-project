@@ -1,5 +1,5 @@
 # Attacked
-Whack! You turn around and get attacked. Unfortunately, no one can help you. Where did you go wrong?
+Whack! You turn around and get attacked. Unfortunately, no one can help you. _Where did you go wrong?_
 
 [Click here to continue](faint.md)
 
